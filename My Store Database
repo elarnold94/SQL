@@ -1,3 +1,5 @@
+
+
 CREATE TABLE store (id INTEGER PRIMARY KEY, item TEXT, quantity INTEGER, price INTEGER, aisle INTEGER);
 INSERT INTO store VALUES (1, "Shirts", 5, 3.99, 5);
 INSERT INTO store VALUES (2, "Pants", 3, 10.00, 7);
